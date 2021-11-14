@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Image-Processing.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="contrast-Stretching.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -31,6 +28,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Mean-Filterin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Successive difference operator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

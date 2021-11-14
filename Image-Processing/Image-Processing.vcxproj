@@ -142,9 +142,9 @@
     <ClCompile Include="contrast-Stretching.cpp" />
     <ClCompile Include="Cv-MatStructure.cpp" />
     <ClCompile Include="Histogram_Equalization.cpp" />
-    <ClCompile Include="Image-Processing.cpp" />
     <ClCompile Include="IPImage.cpp" />
     <ClCompile Include="Mean-Filterin.cpp" />
+    <ClCompile Include="Successive difference operator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
